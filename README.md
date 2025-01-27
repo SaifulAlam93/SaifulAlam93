@@ -93,7 +93,7 @@
 
 ### Junior Java Developer
 - **Organization**: ARP Soft
-- **Duration**: October 2020 - March 2021
+- **Duration**: 2020 - 2021
 - **Location**: Mirpur, Dhaka, Bangladesh
 - **Role**: Full-time
 - **Description**: Worked on ERP system development projects. Responsibilities included developing telecom billing solutions using Java (J2EE, Spring Boot, Hibernate), working with SQL Server and PostgreSQL databases, and designing reports using iReport editor.
@@ -121,8 +121,6 @@
 ### 📊 GitHub Stats:
 ![Saiful's GitHub stats](https://github-readme-stats.vercel.app/api?username=saiful93&show_icons=true&theme=radical)
 
-### 🔥 Top Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
 ### 🔥 Top Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saiful93&layout=compact&theme=radical)
 
