@@ -114,17 +114,17 @@
 - 📧 Email: gmsaiful71@gmail.com
 - 🌐 Portfolio: ...
 - 📞 Contact: **+880 1712922516**
+- 🐦 [Twitter](https://x.com/gmsaifulalam93)
 
 ---
 
 ### 📊 GitHub Stats:
-![Saiful's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-
-### 📊 GitHub Stats2:
 ![Saiful's GitHub stats](https://github-readme-stats.vercel.app/api?username=saiful93&show_icons=true&theme=radical)
 
 ### 🔥 Top Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+### 🔥 Top Languages:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saiful93&layout=compact&theme=radical)
 
 ---
 
