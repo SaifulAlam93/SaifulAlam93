@@ -87,7 +87,7 @@
 ## 📫 How to Reach Me:
 - 💼 [LinkedIn](https://www.linkedin.com/in/saiful93/)
 - 📧 Email: gmsaiful71@gmail.com
-- 📞 Contact: [LinkedIn](https://www.linkedin.com/in/saiful93/) (for professional inquiries)
+- 📞 Contact: +8801712922516 (for professional inquiries)
 
 ---
 
